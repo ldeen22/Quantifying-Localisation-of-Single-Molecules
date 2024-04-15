@@ -32,3 +32,6 @@ Computing Experimental variance: The pipeline computes all potential distances b
 
 Accessing Comprehensive Statistical Variances: By adopting this approach, the pipeline accesses a more comprehensive dataset of statistical variances than traditional methods.
 Typically, only variances of bead coordinates are considered, but this expanded dataset encompasses variances for a factorial number of beads, offering a deeper understanding of the spatial dynamics within the sample.
+
+# Note
+To use the following datasets and pipeline, all files must be on the same folder on jupyter notebook
