@@ -1,5 +1,6 @@
 # Single Molecule Localisation Pipeline
-![Uploading pipeline.png…]()
+![pipeline](https://github.com/ldeen22/Quantifying-Localisation-of-Single-Molecules/assets/163921964/74db88d6-3633-4007-975f-379a298731bb)
+
 
 # Introduction 
 This pipeline is designed to quantify the localisation accuracy of single molecules in microscopy data. It utilizes Python-based scripts to process TIFF-based microscopy images and calculate precision metrics based on Mortensen's formula.
